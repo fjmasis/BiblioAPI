@@ -9,6 +9,6 @@
         public string ISBN { get; set; }
         public int Anio { get; set; }
         public string Categoria { get; set; }
-        public string Existencias { get; set; }
+        public int Existencias { get; set; }
     }
 }
